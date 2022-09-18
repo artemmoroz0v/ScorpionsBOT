@@ -276,7 +276,7 @@ func SongsDataBase() map[string]Album {
 		Description: "Album: Return to Forever\nYear: 2015",
 		Cover: "https://upload.wikimedia.org/wikipedia/ru/6/6b/RTF-Cover.jpg",
 	}
-	BigBase["Goint Out With A Bang"] = ReturnToForever
+	BigBase["Going Out With A Bang"] = ReturnToForever
 	BigBase["We Built This House"] = ReturnToForever
 	BigBase["Rock My Car"] = ReturnToForever
 	BigBase["House Of Cards"] = ReturnToForever
